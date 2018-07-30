@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="6dp">
+
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="80dp"
+        android:layout_height="65dp"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/flame"
+        style="@style/word_title"
+        android:onClick="LaunchSecondActivity"
+        />
+
+    <TextView
+        android:id="@+id/word1"
+        style="@style/word_title"
+        android:layout_toRightOf="@id/image1"
+        android:onClick="LaunchSecondActivity"
+        />
+
+    <TextView
+        android:id="@+id/word2"
+        style="@style/word_title"
+        android:layout_below="@id/word1"
+        android:layout_toRightOf="@id/image1"
+        android:text="Description..."
+        android:textSize="20sp"
+        android:onClick="LaunchSecondActivity"/>
+
+
+</RelativeLayout>

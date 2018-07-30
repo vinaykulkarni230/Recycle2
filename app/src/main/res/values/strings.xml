@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Headlines</string>
+    <string name="image">image</string>
+    <string name="description"> <b><i>Leap Motion review: A glimpse into the future of computing</i></b>
+        \n\n
+        Touch is transforming how we interact with computers, and motion control can do the same
+        \n\n
+        Gesture interaction with computers had long been the stuff of sci-fi, until the recent socially-awkward flamboyant games such as Xbox Kinect began to enter the mainstream.
+        \n\n
+        <b><i>The first question everybody asks is, ‘So what can it do?</i></b>
+        \n\n
+        Now that touchscreens have moved the human-computer interaction beyond the monopoly of the mouse-keyboard union for the first time in 30 years,
+        \n\n
+        are we now at a point where we can put some distance between us and our computers?
+        \n\n
+        Can we instruct them without direct contact but now move to the new union of voice-gesture?
+        \n\n
+        www.leapmotion.com  - is the first serious mainstream contender for a high fidelity gesture peripheral.
+        \n\n
+        It tracks the movement of hands in two square feet of space above it with unbelievable speed and accuracy.
+        \n\n
+        The first question everybody asks is, <b>‘So what can it do?’</b>. The short answer is, today, very little.
+        \n\n
+        Tomorrow? Well, I for one am a believer. What we have here is a limitation of imagination, not of technology.
+        \n\n
+        <b>That is usually a catalyst for innovation.</b>
+    </string>
+</resources>
